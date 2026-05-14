@@ -1,0 +1,13 @@
+{
+  "name": "superpowers-jtbd",
+  "version": "1.0.0",
+  "description": "JTBD interview engine for the superpowers pipeline. Captures jobs, switch forces, and outcomes, then feeds into brainstorming.",
+  "author": {
+    "name": "Gleb Kalinin",
+    "url": "https://github.com/glebis"
+  },
+  "homepage": "https://github.com/glebis/superpowers-jtbd",
+  "repository": "https://github.com/glebis/superpowers-jtbd",
+  "license": "MIT",
+  "keywords": ["jtbd", "jobs-to-be-done", "product", "interview", "superpowers"]
+}
