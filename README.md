@@ -1,5 +1,7 @@
 # superpowers-jtbd
 
+![superpowers-jtbd cover](docs/assets/superpowers-jtbd-cover.png)
+
 > JTBD interview engine for the [superpowers](https://github.com/obra/superpowers) pipeline.
 
 Captures jobs, switch forces, and outcomes through a structured terminal interview. Outputs machine-readable `jtbd.json` that auto-feeds into `superpowers:brainstorming` — no manual handoff.
